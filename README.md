@@ -18,6 +18,7 @@ Here are some snapshots of the dashboard:
 Based on private car uses-
 
 <img width="578" height="343" alt="private" src="https://github.com/user-attachments/assets/99e0ced1-0523-4fa6-aa3b-86265bed3b6d" />
+
 Based on Age group 46-55- 
 
 <img width="577" height="338" alt="2" src="https://github.com/user-attachments/assets/a7418f93-7049-4809-9a17-b1cfc8ada04b" />
